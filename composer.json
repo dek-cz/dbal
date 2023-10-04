@@ -1,5 +1,5 @@
 {
-    "name": "dek-cz/dbal",
+    "name": "doctrine/dbal",
     "type": "library",
     "description": "Powerful PHP database abstraction layer (DBAL) with many features for database schema introspection and management.",
     "keywords": [
